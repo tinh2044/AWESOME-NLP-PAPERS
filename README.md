@@ -1357,8 +1357,7 @@ This section provides an overview of popular NLP models, ranging from foundation
   _Authors_: Pengcheng He, Xiaodong Liu, Jianfeng Gao, Weizhu Chen</br>
   _Description_: Builds on DeBERTa with ELECTRA-style pretraining and gradient-disentangled embedding sharing, enhancing performance and training efficiency.
 
-- [**Therapeutic Prediction Task on Electronic Health Record Using DeBERTa**](
-  "link": "https://www.researchgate.net/profile/Arti-Gupta-6/publication/366664269_Therapeutic_Prediction_task_on_Electronic_Health_Record_using_DeBERTa/links/63e88c56dea6121757a25ef7ic-Prediction-task-on-Electronic-Health-Record-using-DeBERTa.pdf)</br>
+- [**Therapeutic Prediction Task on Electronic Health Record Using DeBERTa**](https://www.researchgate.net/profile/Arti-Gupta-6/publication/366664269_Therapeutic_Prediction_task_on_Electronic_Health_Record_using_DeBERTa/links/63e88c56dea6121757a25ef7ic-Prediction-task-on-Electronic-Health-Record-using-DeBERTa.pdf)</br>
   _Authors_: A. Gupta, V.K. Chaurasiya</br>
   _Description_: Applies DeBERTa to predict therapeutic outcomes in electronic health records, demonstrating its utility in domain-specific NLP tasks.
 
@@ -1506,8 +1505,7 @@ This section provides an overview of popular NLP models, ranging from foundation
   _Authors_: F. Yang, S. Liu</br>
   _Description_: Applies Longformer to extractive summarization of multiple documents, showcasing its ability to handle large-scale text summarization tasks effectively.
 
-- [**Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding**](
-  "link": "https://openaccess.thecvf.com/content/ICCV2021/papersti-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.pdf)</br>
+- [**Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding**](https://openaccess.thecvf.com/content/ICCV2021/papersti-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.pdf)</br>
   _Authors_: P. Zhang, X. Dai, J. Yang</br>
   _Description_: Adapts Longformer concepts for vision tasks, focusing on encoding high-resolution images with sparse attention for computational efficiency.
 
