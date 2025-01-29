@@ -69,7 +69,7 @@ Click the **"Fork"** button at the top-right of this repository.
 Run the following command in your terminal:
 
 ```
-git clone https://github.com/your-username/Awesome-NLP.git
+git clone https://github.com/tinh2044/AWESOME-NLP-PAPERS.git
 cd Awesome-NLP
 ```
 
